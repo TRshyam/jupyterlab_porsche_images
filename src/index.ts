@@ -59,7 +59,7 @@ function activate(
           code: content
         });
       } catch (error) {
-        console.error('Error fetching Porsche image:', error);
+        console.error('Error dude fetching Porsche image:', error);
       }
     }
   });
